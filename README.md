@@ -6,7 +6,7 @@
 <!--BADGES-->
 <span class="badge-shields"><a href="https://qvant-lab.github.io/qui" title="storybook"><img src="https://img.shields.io/badge/storybook-yes-green.svg" alt="storybook" /></a></span> <span class="badge-shields"><img src="https://img.shields.io/badge/responsive-yes-green.svg" /></span> <span class="badge-npmversion"><a href="https://npmjs.org/package/@qvant/qui" title="View this project on NPM"><img src="https://img.shields.io/npm/v/@qvant/qui.svg" alt="NPM version" /></a></span> <span class="badge-npmdownloads"><a href="https://npmjs.org/package/@qvant/qui" title="View this project on NPM"><img src="https://img.shields.io/npm/dm/@qvant/qui.svg" alt="NPM downloads" /></a></span></span><!--/BADGES--></p>
 
-# A Vue.js Neumorphism Design System for Web
+# A Vue.js Neumorphism Design System for Web Application
 
 Responsive, user-friendly and lightweight library helping us build great products for our customers. This library for Vue 2.x
 
